@@ -1,0 +1,11 @@
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\bin\Release\SummerPracticMatch3.exe.config
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\bin\Release\SummerPracticMatch3.exe
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\bin\Release\SummerPracticMatch3.pdb
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\Match3.Game.resources
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\Match3.Menu.resources
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\SummerPracticMatch3.Properties.Resources.resources
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\SummerPracticMatch3.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\SummerPracticMatch3.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\SummerPracticMatch3.exe
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\SummerPracticMatch3.pdb
+C:\Users\hp\source\repos\SummerPracticMatch3\SummerPracticMatch3\obj\Release\SummerPracticMatch3.csproj.AssemblyReference.cache
